@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "depart-reproject",
+"xy_coordinate_resolution": 1e-15,
+"features": [
+
+]
+}
